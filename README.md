@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=EDWNKR&label=Profile%20views&color=508D69&style=flat" alt="EDWNKR" />
-    <a href="linkedin.com/in/edwin-kurnia-rahman-226913162" target="_blank"> 
+    <a href="https://linkedin.com/in/edwin-kurnia-rahman-226913162" target="_blank"> 
         <img src="https://img.shields.io/badge/LinkedIn-%23353a3b.svg?logo=LinkedIn&logoColor=white" />
     </a>
 </p>
